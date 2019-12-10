@@ -6,7 +6,7 @@
 
 body
 {
-    background-image: url(../FinalWebsite/images/BG_Test01.gif);
+    background-image: url(images/BG_Test01.gif);
     background-size: 100% 300%;
     background-repeat: no-repeat;
 
@@ -30,7 +30,7 @@ body
     align-items: center;
     position: relative; 
 
-    background-image: url(../FinalWebsite/images/transparency-1.gif);
+    background-image: url(images/transparency-1.gif);
     background-position: center;
     background-size: cover;
     border-radius: 50%;
@@ -65,7 +65,7 @@ body
     align-items: center;
     position: relative; 
 
-    background-image: url(../FinalWebsite/images/planet4.gif);
+    background-image: url(images/planet4.gif);
     background-position: center;
     background-size: cover;
     border-radius: 50%;
@@ -99,7 +99,7 @@ transform: scale(1.5);
     align-items: center;
     position: relative; 
 
-    background-image: url(../FinalWebsite/images/planet2.gif);
+    background-image: url(images/planet2.gif);
     background-position: center;
     background-size: cover;
     border-radius: 50%;
@@ -135,7 +135,7 @@ transform: scale(1.5);
     align-items: center;
     position: relative; 
 
-    background-image: url(../FinalWebsite/images/Planet3.gif);
+    background-image: url(images/Planet3.gif);
     background-position: center;
     background-size: cover;
     border-radius: 50%;
