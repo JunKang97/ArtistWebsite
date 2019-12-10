@@ -1,0 +1,147 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-image: url(../FinalWebsite/images/BG_Test01.gif);
+    background-size: 100% 300%;
+    background-repeat: no-repeat;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+/* Homepage Styles */
+#Homepage
+{
+   
+}
+
+/* Artist Information Planet */
+.ArtistInformation-Planet
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative; 
+
+    background-image: url(../FinalWebsite/images/transparency-1.gif);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+
+    width: 400px;
+    height: 400px;
+
+    top: 15em;
+    left: -17em;
+}
+
+.Hover-ArtistPlanet
+{
+    position: relative;
+    top: -50px;
+    right: 800px;
+
+    font-size: 45px;
+    color: white;
+}
+
+.ArtistInformation-Planet:hover
+{
+    Transform: scale(1.5);
+}
+
+/* Portfolio Planet01 */
+.Portfolio-Planet01
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative; 
+
+    background-image: url(../FinalWebsite/images/planet4.gif);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+
+    width: 300px;
+    height: 300px;
+    top: 15em;
+    left: -5em;
+}
+
+.Hover-Planet01
+{
+    position: relative;
+    top: -100px;
+    left: 150px;
+
+    font-size: 25px;
+    color: white;
+}
+
+.Portfolio-Planet01:hover
+{
+transform: scale(1.5);
+}
+
+/* Portfolio Planet02 */
+.Portfolio-Planet02
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative; 
+
+    background-image: url(../FinalWebsite/images/planet2.gif);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+
+    width: 250px;
+    height: 250px;
+    top: 15em;
+    left: 30em;
+    
+}
+
+.Hover-planet02
+{
+    position: relative;
+    top: -100px;
+    left: 150px;
+
+    font-size: 25px;
+    color: white; 
+}
+
+.Portfolio-Planet02:hover
+{
+    transform: scale(1.5);
+}
+
+/* Music Planet */
+
+.MusicPlanet
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative; 
+
+    background-image: url(../FinalWebsite/images/Planet3.gif);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+
+    width: 550px;
+    height: 550px;
+    top: 15em;
+    left: 5em;
+}

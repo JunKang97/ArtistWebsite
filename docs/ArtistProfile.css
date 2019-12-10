@@ -1,0 +1,164 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url(../FinalWebsite/images/ArtistBG.jpg);
+    background-size: cover;
+}
+
+.box
+{
+    width: 500px;
+    height: 600px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: sans-serif;
+
+    border-radius: 5%;
+}
+
+.box-img
+{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.box h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+
+.box h2
+{
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 10;
+}
+
+.box p
+{
+    font-size: 15px;
+    font-weight: 50;
+}
+
+.box2-img
+{
+    width: 100px;
+    height: 100px;
+
+    position: relative;
+    right: 0px;
+}
+
+.box2-img:hover
+{
+    transform: scale(1.1);
+}
+
+.box2
+{
+    width: 300px;
+    height: 600px;
+    border-radius: 5%;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    position: relative;
+    right: 500px;
+    top: -655px;
+}
+
+.box21-img
+{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    right: 70px; 
+}
+
+.HomePlanet_Font
+{
+    position: relative;
+    top: -100px;
+    left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box22-img
+{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    right: 70px; 
+}
+
+.PortfolioPlanet_Font
+{
+    position: relative;
+    top: -100px;
+    left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box23-img
+{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    right: 70px; 
+}
+
+.ImagesPlanet_Font
+{
+    position: relative;
+    top: -100px;
+    left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box3
+{
+    width: 300px;
+    height: 600px;
+    border-radius: 5%;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    position: relative;
+    left: 630px;
+    top: -1330px;
+}
+
+.box3 h1
+{
+    font-size: 30px;
+}
+
+.box3 h2
+{
+    font-size: 15px;
+}
+
+.box3 img
+{
+    position: relative;
+    width: 320px;
+    height: 470px;
+    top: 10px;
+    left: -10px;
+    border-radius: 5%;
+}
+
+.box3 img:hover
+{
+    transform: scale(2);
+}
